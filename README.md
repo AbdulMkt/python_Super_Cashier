@@ -56,20 +56,20 @@ Program ini adalah implementasi sistem kasir self-service yang dibuat oleh Andi,
 Customer ingin menambahkan 2 item baru. Item yang ditambahkan adalah sebagai berikut:
 - Nama item: Ayam goreng, Qty: 2, Harga: 20000
 - Nama item: Pasta gigi, Qty: 3, Harga: 15000
-  ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/item1.png)
-  ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/item2.png)
+      ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/item1.png)
+      ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/item2.png)
   sesudah
-  ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/tampilan1.png)
+      ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/tampilan1.png)
 # Test Case 2
 Ternyata Customer salah membeli salah satu item dari belanjaan yang sudah ditambahkan, maka Customer dapat untuk menghapus item yang dipilih. Item yang ingin dihapus adalah Pasta gigi.
-    ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/menghapus.png)
+        ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/menghapus.png)
     sesudah dihapus 
-    ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/tampilan2.png)
+        ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/tampilan2.png)
 # Test Case 3
 Ternyata setelah dipikir-pikir, Customer salah memasukkan item yang ingin dibelanjakan. Daripada menghapusnya satu-satu, maka Customer cukup menggunakan melakukan Reset Transaksi untuk menghapus semua item yang sudah ditambahkan. Daftar belanja setelah diperbarui:
-    ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/reset.png)
+        ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/reset.png)
     sesudah 
-    ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/tampilan3.png)
+        ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/tampilan3.png)
 # Test Case 4
 setelah Customer selesai berbelanja, maka sistem akan menghitung total belanja yang harus dibayarkan. Sebelum mengeluarkan output total akan menampilkan daftar belanja. Daftar belanja ketika melakukan pembayaran:
     ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/selesai.png)
