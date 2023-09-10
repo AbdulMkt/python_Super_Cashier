@@ -14,6 +14,7 @@ Program ini adalah implementasi sistem kasir self-service yang dibuat oleh Andi,
 6. Pembayaran
 
 # Flowchart
+![Alt text](image link)
 
 # Penjelasan Kode Program
 - __init__(self): Fungsi ini adalah konstruktor yang digunakan untuk inisialisasi objek transaksi. Ketika objek transaksi baru dibuat, self.cart (keranjang belanja) akan diinisialisasi sebagai daftar kosong.
@@ -55,11 +56,13 @@ Program ini adalah implementasi sistem kasir self-service yang dibuat oleh Andi,
 Customer ingin menambahkan 2 item baru. Item yang ditambahkan adalah sebagai berikut:
 - Nama item: Ayam goreng, Qty: 2, Harga: 20000
 - Nama item: Pasta gigi, Qty: 3, Harga: 15000
+  ![Alt text](image link)
 # Test Case 2
 Ternyata Customer salah membeli salah satu item dari belanjaan yang sudah ditambahkan, maka Customer dapat untuk menghapus item yang dipilih. Item yang ingin dihapus adalah Pasta gigi.
-
+    ![Alt text](image link)
 # Test Case 3
 Ternyata setelah dipikir-pikir, Customer salah memasukkan item yang ingin dibelanjakan. Daripada menghapusnya satu-satu, maka Customer cukup menggunakan melakukan Reset Transaksi untuk menghapus semua item yang sudah ditambahkan. Daftar belanja setelah diperbarui:
-
+    ![Alt text](image link)
 # Test Case 4
 setelah Customer selesai berbelanja, maka sistem akan menghitung total belanja yang harus dibayarkan. Sebelum mengeluarkan output total akan menampilkan daftar belanja. Daftar belanja ketika melakukan pembayaran:
+    ![Alt text](image link)
