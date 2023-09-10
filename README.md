@@ -67,7 +67,9 @@ Customer ingin menambahkan 2 item baru. Item yang ditambahkan adalah sebagai ber
 Ternyata Customer salah membeli salah satu item dari belanjaan yang sudah ditambahkan, maka Customer dapat untuk menghapus item yang dipilih. Item yang ingin dihapus adalah Pasta gigi.
         
 ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/menghapus.png)
-    sesudah dihapus 
+
+sesudah dihapus 
+
 ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/tampilan2.png)
 # Test Case 3
 Ternyata setelah dipikir-pikir, Customer salah memasukkan item yang ingin dibelanjakan. Daripada menghapusnya satu-satu, maka Customer cukup menggunakan melakukan Reset Transaksi untuk menghapus semua item yang sudah ditambahkan. Daftar belanja setelah diperbarui:
@@ -82,3 +84,12 @@ sesudah
 setelah Customer selesai berbelanja, maka sistem akan menghitung total belanja yang harus dibayarkan. Sebelum mengeluarkan output total akan menampilkan daftar belanja. Daftar belanja ketika melakukan pembayaran:
     
 ![Alt text](https://github.com/AbdulMkt/python_Super_Cashier/blob/main/pictures/selesai.png)
+
+
+# Conclusion
+
+Proyek Python ini merupakan implementasi sistem kasir self-service yang dirancang untuk mempermudah pelanggan dalam mengelola transaksi pembelian barang di sebuah supermarket. Menggunakan class Transaction dengan berbagai metode di dalamnya, proyek ini memungkinkan pelanggan untuk dengan mudah menambah, mengubah, dan menghapus produk dalam keranjang belanja, serta menghitung total belanjaan dengan penerapan diskon yang sesuai. Dengan demikian, program ini bertujuan meningkatkan efisiensi dan pengalaman berbelanja pelanggan di supermarket, termasuk dalam transaksi jarak jauh.
+
+# Future Work
+
+Pengembangan masa depan yang esensial untuk proyek ini mencakup integrasi sistem pemberitahuan stok yang memberikan pelanggan informasi real-time tentang ketersediaan produk di swalayan, memberikan kemudahan dalam membuat keputusan pembelian. Selain itu, perbaikan layanan dukungan pelanggan juga menjadi prioritas, termasuk panduan pengguna yang lebih komprehensif, tutorial, dan mekanisme komunikasi yang lebih efisien, agar pengguna dapat dengan lancar mengatasi kendala yang mungkin terjadi selama berbelanja. Kombinasi dari pemberitahuan stok yang akurat dan dukungan pelanggan yang memadai akan meningkatkan pengalaman pelanggan dan menjadikan sistem kasir self-service ini lebih efektif dalam memenuhi kebutuhan pelanggan swalayan.
